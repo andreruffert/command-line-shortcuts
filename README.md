@@ -23,7 +23,7 @@
 
 `<Ctrl-k>` deletes the line from the position of the cursor to the end of the line.
 
-`Ctrl-w` remove the previous word on the command line (before the cursor). This is highly useful when reusing old commands.
+`<Ctrl-w>` remove the previous word on the command line (before the cursor). This is highly useful when reusing old commands.
 
 `<Ctrl-l>` clear the Screen, similar to the `clear`. It's usually quicker and doesn't leave the command in your history.
 
