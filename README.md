@@ -19,7 +19,7 @@
 
 ## Editing
 
-`<Ctrl-u>`:  clears the entire line so you can type in a completely new command.
+`<Ctrl-u>` clears the entire line so you can type in a completely new command.
 
 `<Ctrl-k>` deletes the line from the position of the cursor to the end of the line.
 
@@ -28,7 +28,7 @@
 `<Ctrl-l>` clear the Screen, similar to the `clear`. It's usually quicker and doesn't leave the command in your history.
 
 
-## History:
+## History
 
 `<Ctrl-r>string` reverse search through your command history for `string`. Press `<Ctrl-r>` again to continue searching backwards. ESC when done.
 
